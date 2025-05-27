@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-oriented Software Engineering Graduate with 1 year of experience. Proficient in programming languages such as Java, C++,<br> and Python, with a strong understanding of data structures and algorithms. Skilled in collaborating with cross-functional teams to<br>deliver scalable and efficient software solutions. I am currently working on a Git repository analysis dashboard<br>
+Results-oriented Software Engineering Graduate with 1 year of experience. Proficient in programming languages such as Java, C++,<br> and Python, with a strong understanding of data structures and algorithms. Skilled in collaborating with cross-functional teams to<br>deliver scalable and efficient software solutions. I am currently working as an AI integration Architect integrating LLM techniques for the Construction sector <br>
 
 
 ## 🌐 Socials:
