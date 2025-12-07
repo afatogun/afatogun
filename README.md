@@ -1,5 +1,9 @@
 # 💫 About Me:
-Results-oriented Software Engineering Graduate with 1 year of experience. Proficient in programming languages such as Java, C++,<br> and Python, with a strong understanding of data structures and algorithms. Skilled in collaborating with cross-functional teams to<br>deliver scalable and efficient software solutions. I am currently working as an AI integration Architect integrating LLM techniques for the Construction sector <br>
+Results-driven Software Engineer & AI Integration Architect<br>
+Experienced in designing and deploying end-to-end AI systems that solve real-world problems in the construction and planning sector.<br><br>
+Skilled across modern full-stack development; Node.js, Python, Angular/TypeScript, with deep expertise in integrating Large Language Models (LLMs) into production workflows.<br><br>
+Strong collaborator with executives, product teams, and investors, translating complex business needs into practical, robust AI features that deliver value.<br><br>
+Currently working as an AI Integration Architect, delivering innovative LLM-powered solutions that modernise construction data analysis and search capabilities.<br>
 
 
 ## 🌐 Socials:
